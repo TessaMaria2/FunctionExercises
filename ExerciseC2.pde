@@ -2,9 +2,9 @@
 // adds them together, and prints the sum to the message window.
 
 
-void sum(int a, int b, int c) {
-  int total = a + b + c;
-  println(total);
+void sum(int 2, int 9, int 12) {
+  int total = 2 + 9 + 12;
+  println(23);
 }
 
 // Looking at the function definition above,
